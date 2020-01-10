@@ -1,0 +1,27 @@
+section#about {
+    width: 25%;
+    display: block;
+    float: left;
+    background-color: grey;
+    margin-right: 20px;
+}
+
+img#foto {
+    display: block;
+    width: 150px;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 20px;
+}    
+
+img.icon {
+    width: 70px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+p.description {
+    text-align: center;
+}
