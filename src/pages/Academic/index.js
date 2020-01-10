@@ -2,7 +2,7 @@ import React from 'react';
 import infos from '../../assets/data/academic.json';
 
 
-function Professional() {
+function Academic() {
   return (
     <section id="academic">
       <h3>Informações acadêmicas</h3>
@@ -19,4 +19,4 @@ function Professional() {
   );
 }
 
-export default Professional;
+export default Academic;
