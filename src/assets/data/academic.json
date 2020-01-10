@@ -1,0 +1,30 @@
+{
+    "formations": [{
+        "entry": 2018,
+        "depeature": "Atual",
+        "course": "Curso superior de Engenharia de Computação",
+        "place": "IFPB-CG"
+        }
+    ],
+
+    "projects": [
+        {
+            "year": 2018,
+            "name": "Processador digital de imagens",
+            "type": "Projeto de conclusão da disciplina Algoritimos e Programação"
+        },
+
+        {
+            "year": 2019,
+            "name": "Doom-fire",
+            "type": "Projeto pessoal"
+        },
+
+        {
+            "year": 2019,
+            "name": "Selection Sort",
+            "type": "Projeto de conclusão da disciplina Estrutura de Dados e Algoritimos"
+        }
+    ]
+
+}

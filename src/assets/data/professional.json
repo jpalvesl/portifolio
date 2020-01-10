@@ -1,0 +1,29 @@
+{
+    "courses":[
+        {
+        "year": 2018,
+        "name": "Elétrica básica",
+        "place": "IFPB-CG"
+        },
+
+        {
+            "year": 2019,
+            "name": "Git básico e intermediário",
+            "place": "Udemy"
+        },
+
+        {
+            "year": 2019,
+            "name": "Introdução ao Arduino",
+            "place": "IFPB-CG"
+        },
+
+        {
+            "year": 2019,
+            "name": "Introdução ao Web Design",
+            "place": "IFPB-CG"
+        }
+    ],
+        
+    "skills": [ "Python", "C", "Java", "CSS", "HTML", "JavaScript" ]
+}
