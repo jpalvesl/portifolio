@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.css';
-import About from './pages/About/index'
+import About from './pages/About/index';
+import Personal from './pages/Personal/index';
 
 function App() {
   return (
-    <div><About /></div>
+    <div>
+      <About />
+      <Personal />
+    </div>
     
   );
 }
